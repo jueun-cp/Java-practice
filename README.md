@@ -32,8 +32,8 @@
 ├─ .gitignore
 └─ Project000
     │─ .project 
-	│─ .classpath 
-	└─ src/Pack000                   
+    │─ .classpath 
+    └─ src/Pack000                   
         └─ java files                   
 ```
 <br>
