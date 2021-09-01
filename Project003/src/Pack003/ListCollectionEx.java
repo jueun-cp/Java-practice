@@ -2,7 +2,7 @@ package Pack003;
 
 import java.util.*;
 
-public class CollectionEx {
+public class ListCollectionEx {
 
 	public static void main(String[] args) {
 		ArrayList<String> arrList = new ArrayList<String>();
