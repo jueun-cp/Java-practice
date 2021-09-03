@@ -2,8 +2,8 @@ package Pack003;
 
 import java.util.*;
 
-//»ç¿ëÀÚ Á¤ÀÇ Å¬·¡½ºÀÎ Member¸¦ ¸¸µé°í ¸Ş¼Òµå ÀçÁ¤ÀÇ
-public class Member{
+//ì‚¬ìš©ì ì •ì˜ í´ë˜ìŠ¤ì¸ Memberë¥¼ ë§Œë“¤ê³  ë©”ì†Œë“œ ì¬ì •ì˜
+class Member{
 	public String name;
 	public int age;
 	
@@ -30,10 +30,10 @@ public class HashSetEx2 {
 	public static void main(String[] args) {
 		Set<Member> set = new HashSet<Member>();
 		
-		set.add(new Member("È«±æµ¿",30));
-		set.add(new Member("È«±æµ¿",30));
+		set.add(new Member("í™ê¸¸ë™",30));
+		set.add(new Member("í™ê¸¸ë™",30));
 		
-		System.out.println("ÃÑ °´Ã¼¼ö : " + set.size());
+		System.out.println("ì´ ê°ì²´ìˆ˜ : " + set.size());
 	}
 
 }
