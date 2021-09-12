@@ -1,4 +1,4 @@
-package socket;
+package socket02;
 
 import java.io.*;
 import java.util.*;
