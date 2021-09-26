@@ -30,7 +30,7 @@
 ```
 ├─ README.md 
 ├─ .gitignore
-└─ Project000
+└─ Chapter000
     │─ .project 
     │─ .classpath 
     └─ src/Pack000                   
